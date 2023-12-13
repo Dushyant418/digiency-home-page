@@ -18,6 +18,7 @@
             infinite: true,
             slidesToShow: 2,
             slidesToScroll: 1,
+            autoplay: true,
             responsive: [
                 {
                     breakpoint: 1440,
